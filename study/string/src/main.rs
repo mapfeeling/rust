@@ -18,6 +18,12 @@ fn main() {
         // 一个String 由3部分组成：
         // 一个指针，len（长度）,cap（容量）分配在栈上，而字符串的内容被分配在堆上
     }
+
+    {
+        let s1=String::from("shenyang");
+        let s2=s1.clone();
+        println!("{},{}",s1,s2);
+    }
 }
 // 所有权是Rust最独特的特性核心特性
 // 内存是通过所有权系统来管理的
