@@ -1,0 +1,26 @@
+# staging Ft58Yb5EC3GPc72npBzr
+mi_dun:
+  public_key: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmui65JaAvoN0Wyld5FpZFFUapzg5c7uw5URqRFxeO9751GkQ/q9LTcQ8T/ApyX+AkayedwmtnuJbFX7JQR/d8xmsRAb8D4pZmQSEgciLQxXcNf2MaDeNhgSXmaRbfxpHQ1ab1IAJZBBEbTcUHInuin0TICiHltMwrydWr+A5U5wIDAQAB"
+
+mysql_db:
+  host: "stag-mysql-ott.tv.xiaomi.srv:3308"
+  name: tv_ashes
+  user: mitv-tv-ashes
+  password: "GCDOcW4audXRg+mfaf7kU4VHDCdq/TcEqdxD/xLwaKhi6BgSSVY08SVOSkum8eJlTLF/QZz/GBDjaPdWEgtGsZkAaSo+mbbIGBS5xRNNouacBJHMTbjiVbRKDliOZAA="
+
+boss_price_url: "http://preview.bss.duokanbox.com/bss/vas/price/page"
+
+boss_coupon_url: "http://pre.bss.tv.xiaomi.srv/bss/internal/vas/couponDispatch/list"
+boss_redeem_url: "http://pre.bss.tv.xiaomi.srv/bss/internal/vas/redeemcodeScheme/list"
+boss_member_product_url: "http://pre.bss.tv.xiaomi.srv/bss/internal/vas/autorenew/list"
+
+rocket_mq:
+  name_servers:
+    - "http://staging-cnbj2-rocketmq.namesrv.api.xiaomi.net:9876"
+  retry: 2
+  group_name: "cms-producer"
+  access_key: "AKCRS7N5LE7WHU2Q7K"
+  secret_key: "GDDccMaw7idhe874+/NT2JWUR4o3TBUQp3IwQ8uwjk+gT0j9P3yFRd1qfIVDdNZnsYIYEqkAx9f45kQmh1nb3rkmUSzV/xgQWECacnyNQJqJ4keatfSa0hgUSUvccsJypeDYI5SX2WuRPNQXoEQA"
+  material_topic: "adx_material_cms_task"
+  position_topic: "adx_material_cms_task"
+  rule_topic: "adx_material_cms_task"
