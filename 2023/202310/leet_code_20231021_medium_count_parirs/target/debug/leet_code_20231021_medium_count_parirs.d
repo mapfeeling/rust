@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202310/leet_code_20231021_medium_count_parirs/target/debug/leet_code_20231021_medium_count_parirs: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202310/leet_code_20231021_medium_count_parirs/src/main.rs

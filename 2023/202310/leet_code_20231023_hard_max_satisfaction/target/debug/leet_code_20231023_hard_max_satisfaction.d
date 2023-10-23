@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202310/leet_code_20231023_hard_max_satisfaction/target/debug/leet_code_20231023_hard_max_satisfaction: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202310/leet_code_20231023_hard_max_satisfaction/src/main.rs
