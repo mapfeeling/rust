@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202310/leet_code_20231028_easy_pick_gifts/target/debug/leet_code_20231028_easy_pick_gifts: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202310/leet_code_20231028_easy_pick_gifts/src/main.rs
