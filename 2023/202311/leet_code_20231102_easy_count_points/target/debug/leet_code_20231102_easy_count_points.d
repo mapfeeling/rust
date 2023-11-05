@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202311/leet_code_20231102_easy_count_points/target/debug/leet_code_20231102_easy_count_points: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202311/leet_code_20231102_easy_count_points/src/main.rs
