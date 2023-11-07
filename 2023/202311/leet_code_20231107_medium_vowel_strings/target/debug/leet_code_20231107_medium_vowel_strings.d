@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202311/leet_code_20231107_medium_vowel_strings/target/debug/leet_code_20231107_medium_vowel_strings: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2023/202311/leet_code_20231107_medium_vowel_strings/src/main.rs
