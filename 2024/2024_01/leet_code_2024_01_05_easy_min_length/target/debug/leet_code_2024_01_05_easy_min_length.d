@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2024/2024_01/leet_code_2024_01_05_easy_min_length/target/debug/leet_code_2024_01_05_easy_min_length: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2024/2024_01/leet_code_2024_01_05_easy_min_length/src/main.rs
