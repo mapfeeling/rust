@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2024/2024_01/leet_code_2024_01_08_medium_number_of_boomerangs/target/debug/leet_code_2024_01_08_medium_number_of_boomerangs: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2024/2024_01/leet_code_2024_01_08_medium_number_of_boomerangs/src/main.rs
