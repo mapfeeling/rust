@@ -3,20 +3,28 @@ use std::collections::HashMap;
 struct Solution{}
 impl Solution {
     pub fn roman_to_int(s: String) -> i32 {
-        let mut map = HashMap::new();
-        map.insert("I",1);
-        map.insert("V",5);
-        map.insert("X",10);
-        map.insert("L",50);
-        map.insert("C",100);
-        map.insert("D",500);
-        map.insert("M",1000);
-        for i in 0..s.len(){
-
-        }
-        0
+        s.chars().fold((0, ' '), |res, ch| {
+            match (res.1, ch) {
+                ('I', 'V') => (res.0 + 3, 'V'),
+                ('I', 'X') => (res.0 + 8, 'X'),
+                ('X', 'L') => (res.0 + 30, 'L'),
+                ('X', 'C') => (res.0 + 80, 'C'),
+                ('C', 'D') => (res.0 + 300, 'D'),
+                ('C', 'M') => (res.0 + 800, 'M'),
+                (_, 'I') => (res.0 + 1, 'I'),
+                (_, 'V') => (res.0 + 5, 'V'),
+                (_, 'X') => (res.0 + 10, 'X'),
+                (_, 'L') => (res.0 + 50, 'L'),
+                (_, 'C') => (res.0 + 100, 'C'),
+                (_, 'D') => (res.0 + 500, 'D'),
+                (_, 'M') => (res.0 + 1000, 'M'),
+                (_, _) => unreachable!(),
+            }
+        }).0
     }
 }
 fn main() {
+    let s = Solution::roman_to_int("III".parse().unwrap());
+    println!("{:?}", s);
     println!("Hello, world!");
 }
