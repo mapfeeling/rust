@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/leet_code/easy/leet_code_14_longest_common_prefix/target/debug/leet_code_14_longest_common_prefix: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/leet_code/easy/leet_code_14_longest_common_prefix/src/main.rs
