@@ -48,6 +48,5 @@ impl Solution {
 
 fn main() {
     let s = Solution::add_minimum(String::from("aaabbbc"));
-    println!("{:?}", s);
-    println!("Hello, world!");
+    println!("所需要的最小构造数:{:?}", s);
 }
