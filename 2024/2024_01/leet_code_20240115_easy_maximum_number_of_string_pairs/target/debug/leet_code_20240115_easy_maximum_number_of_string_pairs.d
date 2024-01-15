@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2024/2024_01/leet_code_20240115_easy_maximum_number_of_string_pairs/target/debug/leet_code_20240115_easy_maximum_number_of_string_pairs: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/2024/2024_01/leet_code_20240115_easy_maximum_number_of_string_pairs/src/main.rs
