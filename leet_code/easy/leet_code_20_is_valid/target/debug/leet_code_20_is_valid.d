@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/leet_code/easy/leet_code_20_is_valid/target/debug/leet_code_20_is_valid: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/leet_code/easy/leet_code_20_is_valid/src/main.rs

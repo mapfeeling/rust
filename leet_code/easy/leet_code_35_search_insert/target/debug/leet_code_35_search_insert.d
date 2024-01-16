@@ -1,0 +1,1 @@
+/Users/hcl/work/xiaomi/myGo/mapfeeling/rust/leet_code/easy/leet_code_35_search_insert/target/debug/leet_code_35_search_insert: /Users/hcl/work/xiaomi/myGo/mapfeeling/rust/leet_code/easy/leet_code_35_search_insert/src/main.rs
